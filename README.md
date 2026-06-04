@@ -34,12 +34,6 @@ Izvērtēšanas rezultāti.
 
 Datu priekšapstrādes skripti tulkošanai, trokšņa sintēzei un datu izguvei.
 
-## Datu formāti
-
-### JSONL
-
+## Datu formāts
 Gala datu kopas ir pieejamas **JSONL** formātā.
-
-### CSV formāts
-
 Atsevišķi sākotnējie dati tiek saglabāti **CSV** formātā.
